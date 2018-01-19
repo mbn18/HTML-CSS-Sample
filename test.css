@@ -1,0 +1,38 @@
+* {
+    font-family: "Comic Sans MS";
+}
+
+.symbol {
+    border: solid 1px green;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    text-align: center;
+    padding-top: 15px;
+
+}
+
+span {
+    padding: 10px;
+    background-color: yellowgreen;
+    position: fixed;
+    top:150px;
+    left: 100px;
+}
+
+h1 {
+    color: red;
+    font-size: 90px;
+    font-style: italic;
+}
+li.second {
+    font-weight: bold;
+}
+
+li {
+    display: inline-block;
+}
+
+/*ul > li:last-child {*/
+    /*float: right;*/
+/*}*/
